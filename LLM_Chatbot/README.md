@@ -1,6 +1,6 @@
 # LLM Chatbot Reproducability Assignment
 
-* This assignment is to entirely reproduce the LLM Chatbot project which utilizes the ReAct prompting technique to generate better SQL queries from Natural Language queries(NLQ).
+* This assignment is to entirely run the LLM Chatbot project which utilizes the ReAct prompting technique to generate better SQL queries from Natural Language queries(NLQ).
 * Please follow the instructions from the original repository to run the code and observe the results[repo](https://github.gatech.edu/asreeraj3/iec-norp-llm).
 
 ### Deliverables
