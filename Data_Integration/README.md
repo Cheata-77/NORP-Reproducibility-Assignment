@@ -3,6 +3,7 @@
 * Utilize the following dataset links to get the relevant data:
     * [Charities](https://urbaninstitute.github.io/nccs/catalogs/catalog-core.html)
     * [Non Profits](https://www.bls.gov/bdm/nonprofits/nonprofits.htm)
+    * [IRS 990 Data](https://www.kaggle.com/code/liamjones21/irs-990/output?select=irs990RevTrends.csv)
 
 * The initial code present in the repository utilizes the 2020 datasets.
 * The other 2 files present in this repo refer to both the cleaning python files used to clean the data before integrating then in the NORP metabase and these datasets are used to generate visualizations on the website. 
